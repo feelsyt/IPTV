@@ -117,6 +117,8 @@ http://111.61.236.247:9081/hls/59/index.m3u8
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 group-title="香港" tvg-id="香港卫视" tvg-logo="https://live.fanmingming.com/tv/中国天气.png",香港卫视
 https://stream1.freetv.fun/xiang-gang-wei-shi-6.m3u8
+#EXTINF:-1 group-title="国外" tvg-id="日本" tvg-logo="https://live.fanmingming.com/tv/中国天气.png",日本
+https://stream1.freetv.fun/axnhai-wai-dorama-1.m3u8
 #EXTINF:-1 group-title="教育" tvg-id="CETV1中国教育电视台一套" tvg-logo="https://live.fanmingming.com/tv/CETV1.png",CETV1中国教育电视台一套
 http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8
 #EXTINF:-1 group-title="教育" tvg-id="CETV2中国教育电视台二套" tvg-logo="https://live.fanmingming.com/tv/CETV2.png",CETV2中国教育电视台二套
