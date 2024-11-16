@@ -115,6 +115,10 @@ http://111.61.236.247:9081/hls/67/index.m3u8
 http://111.61.236.247:9081/hls/59/index.m3u8
 #EXTINF:-1 group-title="数字电视" tvg-id="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png",中国天气
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+#EXTINF:-1 group-title="💓专享源🅰️",📹️直播中国
+https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="💓专享源🅰️",🐼直播熊猫🥇
+https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 #EXTINF:-1 group-title="香港" tvg-id="香港卫视" tvg-logo="https://live.fanmingming.com/tv/中国天气.png",香港卫视
 https://stream1.freetv.fun/xiang-gang-wei-shi-6.m3u8
 #EXTINF:-1 group-title="国外" tvg-id="日本" tvg-logo="https://live.fanmingming.com/tv/中国天气.png",日本
